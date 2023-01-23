@@ -4,7 +4,7 @@
 
 ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
-[![license](https://img.shields.io/github/license/:user/:repo.svg)](LICENSE)
+[![license](https://img.shields.io/github/license/mfaishal882/leet-by-bit.svg)](LICENSE)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
 Repository of some solved poblem by me at Leetcode using Golang. Most of the problem topics are Algorithm, Array, String Manipulation, Searching, Sorting, Competitive Programming etc. I hope this can be reminder for my self when I need it.
